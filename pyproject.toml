@@ -1,0 +1,13 @@
+[project]
+name = "data-tests"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cartpy>=0.2.9",
+    "jupyter>=1.1.1",
+    "pandas>=2.2.3",
+    "polars>=1.22.0",
+    "xarray>=2025.1.2",
+]
